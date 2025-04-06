@@ -1,0 +1,100 @@
+01/01/2024, 09:30 - Diana: Good morning!
+01/01/2024, 09:51 - Alice: Don't forget the meeting at 10am.
+01/01/2024, 10:21 - Alice: See you soon.
+01/01/2024, 10:31 - Diana: Let's catch up tomorrow.
+01/01/2024, 10:36 - Alice: Yes, I agree.
+01/01/2024, 10:56 - Alice: What do you guys think?
+01/01/2024, 11:04 - Bob: Don't forget the meeting at 10am.
+01/01/2024, 11:18 - Alice: See you soon.
+01/01/2024, 11:26 - Alice: I'll join the call in 5 mins.
+01/01/2024, 11:28 - Diana: Sure, sounds good.
+01/01/2024, 11:51 - Charlie: Where are we meeting?
+01/01/2024, 12:05 - Diana: I'll join the call in 5 mins.
+01/01/2024, 12:30 - Alice: See you soon.
+01/01/2024, 12:52 - Charlie: Sure, sounds good.
+01/01/2024, 13:14 - Bob: See you soon.
+01/01/2024, 13:27 - Charlie: Don't forget the meeting at 10am.
+01/01/2024, 13:52 - Charlie: Check out this link!
+01/01/2024, 14:18 - Bob: Sure, sounds good.
+01/01/2024, 14:39 - Charlie: Did you finish the report?
+01/01/2024, 14:51 - Diana: See you soon.
+01/01/2024, 15:20 - Diana: Don't forget the meeting at 10am.
+01/01/2024, 15:39 - Bob: Don't forget the meeting at 10am.
+01/01/2024, 16:02 - Alice: Hey, how's it going?
+01/01/2024, 16:13 - Bob: Thanks everyone!
+01/01/2024, 16:37 - Alice: Good morning!
+01/01/2024, 17:00 - Charlie: Anyone up for a movie night?
+01/01/2024, 17:06 - Charlie: Haha that's hilarious!
+01/01/2024, 17:13 - Bob: I'll join the call in 5 mins.
+01/01/2024, 17:27 - Alice: That's a great idea.
+01/01/2024, 17:40 - Bob: Don't forget the meeting at 10am.
+01/01/2024, 17:47 - Bob: No problem at all.
+01/01/2024, 18:17 - Alice: Let's catch up tomorrow.
+01/01/2024, 18:36 - Diana: Thanks everyone!
+01/01/2024, 18:43 - Bob: Got it, thanks!
+01/01/2024, 19:10 - Diana: Got it, thanks!
+01/01/2024, 19:40 - Alice: Happy Birthday!
+01/01/2024, 19:47 - Bob: Anyone up for a movie night?
+01/01/2024, 19:58 - Bob: Don't forget the meeting at 10am.
+01/01/2024, 20:26 - Charlie: Got it, thanks!
+01/01/2024, 20:41 - Alice: Sure, sounds good.
+01/01/2024, 20:49 - Bob: Haha that's hilarious!
+01/01/2024, 20:53 - Bob: See you soon.
+01/01/2024, 21:02 - Charlie: Don't forget the meeting at 10am.
+01/01/2024, 21:04 - Bob: No problem at all.
+01/01/2024, 21:28 - Alice: No problem at all.
+01/01/2024, 21:55 - Alice: Hey, how's it going?
+01/01/2024, 22:12 - Bob: Check out this link!
+01/01/2024, 22:20 - Bob: Let's catch up tomorrow.
+01/01/2024, 22:26 - Charlie: Hey, how's it going?
+01/01/2024, 22:30 - Diana: Sure, sounds good.
+01/01/2024, 22:52 - Bob: Got it, thanks!
+01/01/2024, 23:15 - Charlie: Hey, how's it going?
+01/01/2024, 23:40 - Diana: Good morning!
+02/01/2024, 00:00 - Diana: What do you guys think?
+02/01/2024, 00:05 - Bob: Anyone up for a movie night?
+02/01/2024, 00:31 - Charlie: Anyone up for a movie night?
+02/01/2024, 00:35 - Alice: Yes, I agree.
+02/01/2024, 00:58 - Bob: Hey, how's it going?
+02/01/2024, 01:01 - Charlie: That's a great idea.
+02/01/2024, 01:29 - Diana: I'll join the call in 5 mins.
+02/01/2024, 01:41 - Alice: Did you finish the report?
+02/01/2024, 02:09 - Diana: Did you finish the report?
+02/01/2024, 02:16 - Alice: Sure, sounds good.
+02/01/2024, 02:27 - Diana: Where are we meeting?
+02/01/2024, 02:57 - Alice: Hey, how's it going?
+02/01/2024, 03:19 - Charlie: Yes, I agree.
+02/01/2024, 03:33 - Bob: Did you finish the report?
+02/01/2024, 03:58 - Alice: Did you finish the report?
+02/01/2024, 04:05 - Bob: No problem at all.
+02/01/2024, 04:08 - Diana: I'll join the call in 5 mins.
+02/01/2024, 04:26 - Charlie: Check out this link!
+02/01/2024, 04:55 - Charlie: What do you guys think?
+02/01/2024, 05:09 - Bob: I'll join the call in 5 mins.
+02/01/2024, 05:33 - Bob: What do you guys think?
+02/01/2024, 05:34 - Alice: I'll join the call in 5 mins.
+02/01/2024, 05:37 - Alice: Check out this link!
+02/01/2024, 05:51 - Alice: No problem at all.
+02/01/2024, 06:09 - Diana: See you soon.
+02/01/2024, 06:16 - Alice: Did you finish the report?
+02/01/2024, 06:33 - Charlie: I'll be late today.
+02/01/2024, 06:40 - Charlie: I'll join the call in 5 mins.
+02/01/2024, 07:00 - Diana: I'll be late today.
+02/01/2024, 07:10 - Bob: That's a great idea.
+02/01/2024, 07:14 - Bob: Hey, how's it going?
+02/01/2024, 07:25 - Diana: I'll join the call in 5 mins.
+02/01/2024, 07:37 - Charlie: Good morning!
+02/01/2024, 07:53 - Charlie: No problem at all.
+02/01/2024, 08:23 - Bob: Did you finish the report?
+02/01/2024, 08:48 - Diana: Happy Birthday!
+02/01/2024, 09:11 - Charlie: I'll be late today.
+02/01/2024, 09:20 - Diana: Don't forget the meeting at 10am.
+02/01/2024, 09:33 - Alice: Yes, I agree.
+02/01/2024, 09:53 - Charlie: Hey, how's it going?
+02/01/2024, 10:22 - Alice: Let's catch up tomorrow.
+02/01/2024, 10:29 - Charlie: Hey, how's it going?
+02/01/2024, 10:40 - Charlie: See you soon.
+02/01/2024, 10:41 - Alice: Haha that's hilarious!
+02/01/2024, 11:09 - Diana: Got it, thanks!
+02/01/2024, 11:15 - Alice: I'll join the call in 5 mins.
+02/01/2024, 11:34 - Bob: Where are we meeting?
